@@ -1,6 +1,6 @@
-// real	0m6.168s
-// user	0m6.092s
-// sys	0m0.056s
+// real	0m11.909s
+// user	0m11.788s
+// sys	0m0.084s
 
 "use strict"
 
@@ -21,6 +21,13 @@ function f(){
   o.g = i + 1
   o.h = i + 1
   o.i = i + 1 // 9
+  o.j = i + 1
+  o.k = i + 1
+  o.l = i + 1
+  o.m = i + 1
+  o.n = i + 1
+  o.o = i + 1
+  o.p = i + 1 // 16
 
   r += o.a + o.b + o.c + o.d + o.e + o.f + o.g + o.h + o.i
 }
@@ -30,4 +37,4 @@ for(; i < length; i++){
 }
 
 console.log(r)
-console.log("empty-object-09.js " + (Date.now() - t))
+console.log("empty-object-16.js " + (Date.now() - t))

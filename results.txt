@@ -4,7 +4,8 @@ constructor-assign-inside-10.js 3858
 constructor-assign-inside-16.js 5624
 constructor-assign-outside-10.js 4473
 constructor-assign-outside-16.js 8414
-empty-object-09.js 6800
+empty-object-09.js 6696
+empty-object-16.js 13261
 empty-object-global-09.js 2129
 empty-object-global-16.js 2349
 object-literal-08.js 3005
@@ -19,7 +20,8 @@ constructor-assign-inside-10.js 485
 constructor-assign-inside-16.js 708
 constructor-assign-outside-10.js 5855
 constructor-assign-outside-16.js 8605
-empty-object-09.js 9926
+empty-object-09.js 10183
+empty-object-16.js 13386
 empty-object-global-09.js 1140
 empty-object-global-16.js 1279
 object-literal-08.js 414
@@ -34,7 +36,8 @@ constructor-assign-inside-10.js 8055
 constructor-assign-inside-16.js 13786
 constructor-assign-outside-10.js 8067
 constructor-assign-outside-16.js 14681
-empty-object-09.js 5322
+empty-object-09.js 5423
+empty-object-16.js 8699
 empty-object-global-09.js 2067
 empty-object-global-16.js 2276
 object-literal-08.js 3847
