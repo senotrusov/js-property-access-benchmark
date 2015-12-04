@@ -12,6 +12,7 @@ console.log(%HasFastProperties(o))
 
 var F = function () {}
 F.prototype = o
+new F()
 
 console.log(%HasFastProperties(o))
 
