@@ -34,4 +34,4 @@ for(; i < length; i++){
 }
 
 console.log(r)
-console.log("constructor-empty-10.js " + (Date.now() - t))
+console.log("constructor-assign-outside-10.js " + (Date.now() - t))
